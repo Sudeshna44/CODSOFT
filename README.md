@@ -1,2 +1,1 @@
-# CODSOFT
-Internship on Machine Learning
+Welcome to the Virtual Internship on Machine Learning! This program is designed to provide with hands-on experience in three key tasks: Movie Genre Classification, Spam SMS Detection, and Customer Churn Prediction. Throughout this internship,I will have the opportunity to work on real-world datasets, apply machine learning algorithms, and gain valuable insights into the field of Machine Learning and python.
